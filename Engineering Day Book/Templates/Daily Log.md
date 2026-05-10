@@ -1,0 +1,15 @@
+# {{date:YYYY-MM-DD}}
+
+## 🛠️ Work Problems
+- Issue:
+- Fix:
+- Lessons:
+
+## 📚 Reading
+- Source:
+- Key ideas:
+- How I can apply this:
+
+## 🌐 Found Online
+- Link:
+- Why it matters:

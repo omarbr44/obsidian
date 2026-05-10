@@ -1,0 +1,22 @@
+-- basic
+- [ ] 1- single normal product with qty 1 
+- [ ] 2- single normal product with qty more than 1
+- [ ] 3- multiple normal product with qty 1 
+- [ ] 4- multiple normal product with qty more than 1
+- [ ] 5- multiple normal product with qty 1 (1 with promotion and another with not)
+- [ ] 6- single modifier product with qty 1 
+- [ ] 7- multiple modifier product with qty more than 1
+- [ ] 8- modifier product and normal
+-- advanced (buys qty)
+- [ ] 1- single normal product with qty 1 
+- [ ] 2- single normal product with qty more than 1
+- [ ] 3- multiple normal product with qty 1 
+- [ ] 4- multiple normal product with qty more than 1
+- [ ] 5- multiple normal product with qty 1 (1 with promotion and another with not)
+- [ ] 6- single modifier product with qty 1 
+- [ ] 7- multiple modifier product with qty more than 1
+- [ ] 8- modifier product and normal
+- [ ] 9- get discount on product
+- [ ]  pay fixed amount
+- [ ] spends (order)
+- [ ] spends (product)

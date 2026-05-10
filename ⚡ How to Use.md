@@ -1,0 +1,4 @@
+- **Daily capture** → Use Daily Notes plugin with the Daily Log template.
+- **Promote important stuff** → If a problem/reading is worth keeping, move it into Problems & Fixes/ or Reading Notes/ using the right template.
+- **Link aggressively** → Use [[ ]] to connect notes (e.g., link a problem to a related pattern).
+- **Review weekly** → Skim your Daily Logs, promote the best insights into permanent notes.
